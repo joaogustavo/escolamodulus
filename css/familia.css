@@ -1,0 +1,12 @@
+@charset "utf-8";
+/* CSS Document */
+
+.navegacao ul li:last-child a {
+	color: #ede119;
+	cursor: text;
+}
+.menu-movel li:last-child a {
+	background: #f5d68a;
+	color: #ffffff;
+	cursor: text;
+}
